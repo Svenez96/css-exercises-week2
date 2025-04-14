@@ -7,10 +7,10 @@
     font-size: 10px;
 }
 
-.container:first-child{
+p:first-child{
     font-size: 7rem;
 }
 
-.container:last-child{
+p:last-child{
     font-size: 7em;
 }
