@@ -1,0 +1,6 @@
+@import url(root.css);
+
+
+ul li{
+    display: inline-block;
+}
