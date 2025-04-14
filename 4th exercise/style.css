@@ -1,0 +1,16 @@
+@import url(/root.css);
+* {
+    color: var(--primary-color);
+}
+
+.container {
+    font-size: 10px;
+}
+
+.container:first-child{
+    font-size: 7rem;
+}
+
+.container:last-child{
+    font-size: 7em;
+}
