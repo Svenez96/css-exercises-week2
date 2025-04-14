@@ -1,16 +1,15 @@
 @import url(root.css);
-* {
-    color: var(--primary-color);
-}
 
 .container {
-    font-size: 10px;
+    width: 300px;
+   border: 1px solid black;
+   text-align: center;
 }
 
-.container:first-child{
-    font-size: 7rem;
+h2{
+    padding: 20px;
 }
 
-.container:last-child{
-    font-size: 7em;
+p{
+    padding: 10px;
 }
