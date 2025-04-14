@@ -1,0 +1,18 @@
+@import url(root.css);
+
+.container {
+    width: 300px;
+   border: 1px solid black;
+   text-align: center;
+   padding: 50px;
+   margin-top: 50px;
+   margin-left: 100px;
+}
+
+h2{
+    padding: var(--padding-size);
+}
+
+p{
+    padding: 10px;
+}
