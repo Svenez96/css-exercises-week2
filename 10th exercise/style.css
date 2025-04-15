@@ -1,1 +1,22 @@
 @import url(root.css);
+
+
+span{
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    height: auto;
+    width: auto;
+}
+
+.first{
+    display: inline;
+}
+
+.second{
+    display: inline-block;
+}
+
+.third{
+    display: block;
+}
