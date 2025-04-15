@@ -1,0 +1,33 @@
+@import url(root.css);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+  overflow:hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+}
+
+
+nav a {
+  float: left;
+  color: #f2f2f2;
+  padding: 12px 20px;
+  text-decoration: none;
+  transition: all ease-in-out 0.15s;
+}
+
+nav a:hover {
+  background-color: #dddddd6c;
+  color: black;
+}
+
+form {
+  float: right;
+  padding: 12px 20px;
+}
+
